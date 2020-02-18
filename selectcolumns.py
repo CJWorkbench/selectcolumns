@@ -86,8 +86,6 @@ def render(table, params, **kwargs):
             columns = select_columns_by_number(table, params["column_numbers"])
         except UserVisibleError as err:
             return err.i18n_message
-        except ValueError as err:
-            return str(err)
     else:
         columns = params["colnames"]
 
