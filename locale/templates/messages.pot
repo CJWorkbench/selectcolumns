@@ -26,3 +26,13 @@ msgstr ""
 msgid "_spec.parameters.keep.options.False.label"
 msgstr ""
 
+#. default-message: There are overlapping numbers in input range
+#: selectcolumns.py:32
+msgid "badParam.column_numbers.overlapping"
+msgstr ""
+
+#. default-message: Column numbers must look like "1-2", "5" or "1-2, 5"; got "{value}"
+#: selectcolumns.py:58
+msgid "badParam.column_numbers.invalid"
+msgstr ""
+

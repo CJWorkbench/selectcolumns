@@ -11,5 +11,5 @@ setup(
     url="https://github.com/CJWorkbench/selectcolumns",
     packages=[""],
     py_modules=["selectcolumns"],
-    install_requires=["pandas==0.25.0"],
+    install_requires=["pandas==0.25.0", "cjwmodule>=1.4.0"],
 )
