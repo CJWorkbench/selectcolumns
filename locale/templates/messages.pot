@@ -1,0 +1,28 @@
+#. default-message: Select columns
+msgid "_spec.name"
+msgstr ""
+
+#. default-message: Retain or delete columns from the table.
+msgid "_spec.description"
+msgstr ""
+
+#. default-message: Column numbers
+msgid "_spec.parameters.column_numbers.name"
+msgstr ""
+
+#. default-message: 1-5, 8
+msgid "_spec.parameters.column_numbers.placeholder"
+msgstr ""
+
+#. default-message: Select range
+msgid "_spec.parameters.select_range.name"
+msgstr ""
+
+#. default-message: Keep
+msgid "_spec.parameters.keep.options.True.label"
+msgstr ""
+
+#. default-message: Delete
+msgid "_spec.parameters.keep.options.False.label"
+msgstr ""
+
