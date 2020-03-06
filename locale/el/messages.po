@@ -42,9 +42,9 @@ msgstr "Διαγραφή"
 
 #: selectcolumns.py:32
 msgid "badParam.column_numbers.overlapping"
-msgstr ""
+msgstr "Υπάρχουν αλληλεπικαλυπτόμενοι αριθμοί στην περιοχή εισόδου"
 
 #: selectcolumns.py:58
 msgid "badParam.column_numbers.invalid"
-msgstr ""
+msgstr "Οι αριθμοί στηλών πρέπει να έχουν την εμφάνιση \"1-2\", \"5\" ή \"1-2, 5\" – τώρα η τιμή είναι \"{value}\""
 
